@@ -8,11 +8,11 @@ Tobias Horelt
 
 # Why
 
-<explain why you made this module>
+It is the tutorial module for Milestone 0
 
 # How
 
-<explain short how you made this module>
+By following the tutorial
 
 
 # What
